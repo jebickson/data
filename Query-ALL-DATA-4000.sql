@@ -1,0 +1,1 @@
+select * from CITY WHERE ID >= 4000;

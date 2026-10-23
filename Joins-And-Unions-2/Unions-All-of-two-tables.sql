@@ -1,0 +1,3 @@
+SELECT * FROM Difficulty
+UNION ALL
+SELECT * FROM hackers;

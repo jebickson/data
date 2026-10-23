@@ -1,0 +1,1 @@
+select customers.customerid, customers.firstname,  customers.lastname, items_ordered.item, items_ordered.price  from customers JOIN items_ordered ON customers.customerid = items_ordered.customerid;

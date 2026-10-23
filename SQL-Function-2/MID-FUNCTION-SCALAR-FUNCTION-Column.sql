@@ -1,0 +1,1 @@
+select mid(salary,1,4) from emp;

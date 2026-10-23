@@ -1,0 +1,1 @@
+SELECT name, ASCII(name) FROM students;

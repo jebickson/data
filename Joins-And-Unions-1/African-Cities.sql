@@ -1,0 +1,1 @@
+select CITY.NAME from CITY join COUNTRY on COUNTRY.Code = CITY.CountryCode where COUNTRY.Continent = 'Africa';

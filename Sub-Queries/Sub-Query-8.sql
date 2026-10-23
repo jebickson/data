@@ -1,0 +1,1 @@
+SELECT * FROM sub_employees WHERE salary BETWEEN 1000 AND 3000;

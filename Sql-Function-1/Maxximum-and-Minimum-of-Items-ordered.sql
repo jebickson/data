@@ -1,0 +1,1 @@
+select min(customerid),min(quantity), min(price), max(customerid), max(quantity),max(price) from items_ordered;

@@ -1,0 +1,1 @@
+select abs(customerid), abs(price), abs(quantity) from items_ordered;

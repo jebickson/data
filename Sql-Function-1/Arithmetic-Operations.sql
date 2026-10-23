@@ -1,0 +1,1 @@
+select customerid+113,quantity*50,price-50,customerid/100  from items_ordered;

@@ -1,0 +1,1 @@
+select avg(price) from items_ordered;

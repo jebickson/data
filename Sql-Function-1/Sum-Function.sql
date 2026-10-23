@@ -1,0 +1,1 @@
+select sum(customerid),sum(quantity),sum(price) from items_ordered;
